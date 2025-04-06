@@ -6,6 +6,8 @@ These repository uses shapeit5 and impute5 for phasing and imputation under next
 ## 🛠 Requirements:
 - All tools (`shapeit5_phase_common`, `bcftools`, `imp5Chunker`, `impute5`) must be available via module system.
 - Input VCFs must be bgzipped (.vcf.gz) and tabix-indexed (.tbi).
+- Genetic map (hg38) from https://github.com/odelaneau/shapeit4/blob/master/maps/genetic_maps.b38.tar.gz
+- legend hap file can be created for hg38 1000G WGS dataset. Example bash script provided as extra-scripts
 
 ## 🚀 Running the Pipeline:
 ```bash
