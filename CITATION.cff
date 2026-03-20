@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: HPC imputationautosomes
+message: "If you use this scripts, please cite it using the information below."
+type: software
+
+authors:
+  - family-names: Bharti
+    given-names: Deepak
+    affiliation: Trinity College Dublin
+
+version: 1.0.0
+date-released: 2025-01-20
+
+repository-code: https://github.com/Deep2106/Imputation_autosomes
+
+license: Apache-2.0
+
+keywords:
+  - bioinformatics
+  - VCF
+  - Imputation
+  - HPC
+  - genomics
+  - shapeit
+  - impute5
